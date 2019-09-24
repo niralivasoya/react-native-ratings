@@ -13,7 +13,7 @@ export default class TapRating extends Component {
     reviews: ["Terrible", "Bad", "Okay", "Good", "Great"],
     count: 5,
     showRating: true,
-    reviewColor: 'rgba(230, 196, 46, 1)',
+    reviewColor: '#00B8C8',
     reviewSize: 25
   };
 
